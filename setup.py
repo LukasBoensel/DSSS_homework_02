@@ -7,5 +7,5 @@ setup(
     author="LukasBoensel",
     author_email="lukas_boensel@web.de",
     packages=find_packages(),
-    install_requires=["random"],
+    install_requires=[],
 )
